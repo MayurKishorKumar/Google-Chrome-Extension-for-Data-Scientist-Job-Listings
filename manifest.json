@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Recent Entry Level Data Scientist Jobs",
+    "version": "1.0",
+    "description": "Recent Entry Level Data Scientist Jobs",
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "Recent Entry Level Data Scientist Jobs"
+    }
+  }
+  
